@@ -29,5 +29,6 @@ int main(int argc, char const *argv[]) {
 
   line[len++] = '\0';
   printf(line,'\n');
+  printf('\n');
   return 0;
 }
